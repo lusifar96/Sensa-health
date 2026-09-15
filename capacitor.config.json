@@ -1,0 +1,12 @@
+{
+  "appId": "com.spindustries.sensahealth",
+  "appName": "Sensa Health",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

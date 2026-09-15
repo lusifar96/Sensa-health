@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sensa Health</string>
+    <string name="title_activity_main">Sensa Health</string>
+    <string name="package_name">com.spindustries.sensahealth</string>
+    <string name="custom_url_scheme">com.spindustries.sensahealth</string>
+</resources>

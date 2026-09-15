@@ -1,0 +1,17 @@
+{
+  "name": "sensa-health",
+  "version": "1.0.0",
+  "description": "Sensa Health — care, coordinated. Built and maintained by SP Industries.",
+  "private": true,
+  "scripts": {
+    "sync": "cap sync android",
+    "open:android": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
